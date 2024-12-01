@@ -6,8 +6,8 @@
 
 ## Skills and Tools
 - **Programming:** Python, PySpark, SQL
-- **Cloud Platforms:** Azure (Data Factory, Synapse, Databricks, Data Lake)
-- **Data Tools:** Apache Airflow, Kafka, AWS
+- **Cloud Platforms:** Azure (Data Factory, Synapse, Databricks, Data Lake), AWS
+- **Data Tools:** Apache Airflow, Kafka
 - **Database Systems:** MySQL
 - **Version Control:** Git, GitHub
 - **Big Data:** Hive
