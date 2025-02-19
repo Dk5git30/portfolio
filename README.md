@@ -19,5 +19,6 @@
 - **SQL(Advanced) HackerRank** *nov24*
 - **Python (Basic) Certificate HackerRank** *nov24*
 - **Academy Accreditation - Databricks Fundamentals** *sept 24*
+- **Azure Synapse Analytics For Data Engineers -Hands On Project** *Feb 25*
 
 ---
